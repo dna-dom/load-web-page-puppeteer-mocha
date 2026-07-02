@@ -39,7 +39,7 @@
       "assert-deep-strict-equal": "~1.2",
       "jshint": "~2.13",
       "mocha": "~11.7",
-      "puppeteer": "~24.37",
+      "puppeteer": "~25.2",
       "puppeteer-browser-ready": "~1.4"
    }
 }
