@@ -38,8 +38,8 @@
    "devDependencies": {
       "assert-deep-strict-equal": "~1.2",
       "jshint": "~2.13",
-      "mocha": "~11.7",
-      "puppeteer": "~25.2",
+      "mocha": "~12.0",
+      "puppeteer": "~25.14",
       "puppeteer-browser-ready": "~1.4"
    }
 }
